@@ -1,4 +1,4 @@
-# Beaver Jump - README
+# Beaver Jump 
 
 ## Overview
 **Beaver Jump** is a fun variation of the classic game Doodle Jump, with a twist: the player controls a beaver. The goal is to jump as high as possible on randomly spawning tiles, collecting points and power-ups, while avoiding falling off the screen or getting hit by bullets fired from an invader. The game features an elastic jumping mechanic, multiplayer mode, and engaging visual elements, making it an exciting challenge for players of all skill levels.
